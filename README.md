@@ -1,6 +1,6 @@
 # dd2434-a1
 
-To visualize the graphs simply run one of the scripts. 
+To visualize the graphs run `python pca.py` or `python mds.py` 
 
 To install requirements run:
 ```bash
